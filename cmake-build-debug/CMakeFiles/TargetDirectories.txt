@@ -1,0 +1,3 @@
+/Users/jasminemadora-rivas/CLionProjects/PracticeClassProj./cmake-build-debug/CMakeFiles/PracticeClassProj_.dir
+/Users/jasminemadora-rivas/CLionProjects/PracticeClassProj./cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jasminemadora-rivas/CLionProjects/PracticeClassProj./cmake-build-debug/CMakeFiles/rebuild_cache.dir

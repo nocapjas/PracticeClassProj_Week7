@@ -1,0 +1,20 @@
+# ninja log v5
+1	747	1715576354085509408	CMakeFiles/PracticeClassProj_.dir/Point.cpp.o	c4f0898a69198bc6
+12	706	1715576381459098123	CMakeFiles/PracticeClassProj_.dir/Point.cpp.o	c4f0898a69198bc6
+12	956	1715626409677694199	CMakeFiles/PracticeClassProj_.dir/Point.cpp.o	c4f0898a69198bc6
+11	957	1715626409677699116	CMakeFiles/PracticeClassProj_.dir/main.cpp.o	6be474c5d51c9c66
+11	1368	1715626423662881248	CMakeFiles/PracticeClassProj_.dir/Point.cpp.o	c4f0898a69198bc6
+10	1370	1715626423664891151	CMakeFiles/PracticeClassProj_.dir/main.cpp.o	6be474c5d51c9c66
+8	755	1715626456900281901	CMakeFiles/PracticeClassProj_.dir/main.cpp.o	6be474c5d51c9c66
+9	756	1715626456900290985	CMakeFiles/PracticeClassProj_.dir/Point.cpp.o	c4f0898a69198bc6
+24	756	1715626487898155455	CMakeFiles/PracticeClassProj_.dir/main.cpp.o	6be474c5d51c9c66
+24	757	1715626487898157038	CMakeFiles/PracticeClassProj_.dir/Point.cpp.o	c4f0898a69198bc6
+26	904	1715626560930445631	CMakeFiles/PracticeClassProj_.dir/Point.cpp.o	c4f0898a69198bc6
+9	786	1715626612228064714	CMakeFiles/PracticeClassProj_.dir/Point.cpp.o	c4f0898a69198bc6
+9	780	1715626748946262407	CMakeFiles/PracticeClassProj_.dir/main.cpp.o	6be474c5d51c9c66
+10	1291	1715626774240980839	CMakeFiles/PracticeClassProj_.dir/main.cpp.o	6be474c5d51c9c66
+10	1400	1715626774348794040	CMakeFiles/PracticeClassProj_.dir/Point.cpp.o	c4f0898a69198bc6
+1400	1794	1715626774744791413	PracticeClassProj_	142e42ef52c25cad
+10	1174	1715626800633649362	CMakeFiles/PracticeClassProj_.dir/main.cpp.o	6be474c5d51c9c66
+11	1176	1715626800633658195	CMakeFiles/PracticeClassProj_.dir/Point.cpp.o	c4f0898a69198bc6
+1176	1514	1715626800968755972	PracticeClassProj_	142e42ef52c25cad
